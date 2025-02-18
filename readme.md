@@ -4,5 +4,8 @@ Programm for compressing images
 For correct work install library Pillow 
 
 Command:
-# pip install Pillow
+```
+pip install Pillow
+
+```
 
